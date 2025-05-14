@@ -25,6 +25,7 @@ You need a **C compiler** (like GCC, which is included in Code::Blocks) to compi
 
 ## Example
 
+```
 Enter first number: 5
 Enter second number: 3
 
@@ -45,10 +46,11 @@ Operations:
  5. Exit
 Enter your choice (1-5): 5
 Exiting the program.
+```
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](.../LICENSE) file for details.
 
 ## Author 
 
